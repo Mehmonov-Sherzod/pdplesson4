@@ -6,7 +6,7 @@
     public static void Main(string[] args)
     {
 
-        var number = "dddd";
+        var number = 72378723872;
 
         Console.WriteLine(number);
 
