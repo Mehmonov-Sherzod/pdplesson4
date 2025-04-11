@@ -8,6 +8,8 @@
 
         var number = Console.ReadLine();
 
+        Console.WriteLine(number);
+
 
     }
 
